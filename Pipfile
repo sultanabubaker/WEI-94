@@ -11,6 +11,3 @@ requests = "==1.2.3"
 pytest = "==5.2"
 PyYAML = "==5.3.1"
 djangorestframework = "==3.11.1"
-
-[requires]
-python_version = "3.7"
